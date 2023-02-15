@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a98be2f-6b34-45bd-8e82-2b02b6726567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ControlFlowExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MethodsExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyFavoriteNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StringExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZombieKiller/ZombieKiller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/ArraysExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/MoviesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/notes/ArraysNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/notes/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/objectOrientedNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/ShapesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/circleApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConsoleExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConsoleExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/package-info.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a98be2f-6b34-45bd-8e82-2b02b6726567" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +83,7 @@
       <updated>1675723391338</updated>
       <workItem from="1675723392910" duration="82000" />
       <workItem from="1675723494059" duration="63364000" />
-      <workItem from="1676296386274" duration="44734000" />
+      <workItem from="1676296386274" duration="45106000" />
     </task>
     <servers />
   </component>
