@@ -12,6 +12,7 @@ public class ConsoleExercises {
         Scanner input = new Scanner(System.in);
 //why did you use printf... to round it to the hundredths digit
         //ask to practice with % more
+        //ask for a simple def. of each
         System.out.println("The value of pi is approximately " + pi);
         //review split
         System.out.print("Enter 3 words");
@@ -38,7 +39,7 @@ public class ConsoleExercises {
 //        w = Double.parseDouble(s);
         int area = width * length;
         int perimeter = (2 * width) * (2 * length);
-
+//System.out.println("The area of this room is " + w * h);
         System.out.printf("""
                 Length: %d
                 Width: %d
@@ -46,9 +47,7 @@ public class ConsoleExercises {
                 Perimeter: %d%n"""
                 ,length, width, area, perimeter);
         input.close();
-//
-//        System.out.println("The area of this room is " + w * h);
-
+//go over bonus
 
     }
 }

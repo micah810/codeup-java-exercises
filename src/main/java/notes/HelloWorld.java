@@ -1,3 +1,5 @@
+package notes;
+
 import java.sql.SQLOutput;
 
 //in java ALL code has to be inside a class and every public class is a source file

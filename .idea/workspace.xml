@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a98be2f-6b34-45bd-8e82-2b02b6726567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConsoleExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ControlFlowExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MethodsExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyFavoriteNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StringExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ZombieKiller/ZombieKiller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/movies/ArraysExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/movies/MoviesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notes/ArraysNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/notes/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/objectOrientedNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/ShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/circleApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hey/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConsoleExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConsoleExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/notes/package-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,27 +59,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MethodsExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodsExercises" />
+      <module name="codeup-java-exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodsExercises" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,11 +104,23 @@
       <option name="presentableId" value="Default" />
       <updated>1675723391338</updated>
       <workItem from="1675723392910" duration="82000" />
-      <workItem from="1675723494059" duration="21610000" />
+      <workItem from="1675723494059" duration="63364000" />
+      <workItem from="1676296386274" duration="44734000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
