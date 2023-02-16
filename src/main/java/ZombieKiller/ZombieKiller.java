@@ -27,7 +27,7 @@ public class ZombieKiller {
 //private static Random random = new Random();
 //private static String [] adjectives = {
 //"hairy", "slimy", "sad" };
-//public static String get RadnomeString (String[] strigs){
+//public static String get RadnomString (String[] strigs){
 //    in rndNum = random.nectInt(strings.length);
 //    return stringd[rndNum];
 //}
@@ -40,14 +40,14 @@ public class ZombieKiller {
 
 
 //set up of Java aka why does
-// nothing run if somethings wrong
-//statics definition/purpose
-//private vs public vs global
+// nothing run if somethings wrong **
+//statics definition/purpose **
+//private vs public vs global **
 //input for scanner
 //linking two classes together
 //movies.for is it a loop?
 //go over at some point adding a movie
-//public void
+//public void **
 //dont duplicate, inherit
 
 //we express poly through inheritance
