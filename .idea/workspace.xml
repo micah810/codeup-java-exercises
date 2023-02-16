@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a98be2f-6b34-45bd-8e82-2b02b6726567" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Measureable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Quadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shapes/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/ShapesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/ShapesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +91,7 @@
       <updated>1675723391338</updated>
       <workItem from="1675723392910" duration="82000" />
       <workItem from="1675723494059" duration="63364000" />
-      <workItem from="1676296386274" duration="53210000" />
+      <workItem from="1676296386274" duration="59388000" />
     </task>
     <servers />
   </component>
