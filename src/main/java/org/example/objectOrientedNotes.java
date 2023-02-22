@@ -41,7 +41,7 @@ class objectOrientedNotes {
         System.out.println(rick.sayHello());
         // prints "Hello from Rick Sanchez!"
     }
-    //accessors
+    //accessors (are for what? what was this notes?)
 
     public String getFirstName() {
         return firstName;
@@ -52,4 +52,4 @@ class objectOrientedNotes {
     }
 }
 
-
+//do #1 of OOP and then the HW for 2nite
