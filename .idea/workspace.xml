@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a98be2f-6b34-45bd-8e82-2b02b6726567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionsNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PpPractice/PrProPractce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/grocerylist/Groceries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/movies/arrayTutoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/notes/ExceptionsNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PpPractice/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/movies/ArraysExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/movies/ArraysExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/objectOrientedNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/objectOrientedNotes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shapes/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shapes/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PpPractice/PrProPractce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PpPractice/PrProPractce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +88,9 @@
       <updated>1675723391338</updated>
       <workItem from="1675723392910" duration="82000" />
       <workItem from="1675723494059" duration="63364000" />
-      <workItem from="1676296386274" duration="91411000" />
+      <workItem from="1676296386274" duration="104491000" />
+      <workItem from="1677087872865" duration="1539000" />
+      <workItem from="1677190109741" duration="1422000" />
     </task>
     <servers />
   </component>
@@ -114,5 +107,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PpPractice/PrProPractce.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
